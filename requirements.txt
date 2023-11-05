@@ -1,5 +1,5 @@
-black==23.10.0
-matplotlib==3.8.1
+black==22.3.0
+matplotlib==3.8.0
 numpy==1.25.2
 packaging==23.2
 pandas==2.1.0
