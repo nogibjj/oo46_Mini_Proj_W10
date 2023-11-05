@@ -2,7 +2,7 @@
 
 # CLI Lab - Week 10 Mini Project
 
-## Python vs Rust Speed Test
+## PySpark Data Processing
 
 The purpose of this project is to use PySpark to perform data processing on a large dataset.
 
