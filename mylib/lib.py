@@ -61,7 +61,7 @@ def top_countries_by_capacity(
     capacity_column: str = "capacity_mw",
     country_column: str = "country_long",
 ) -> DataFrame:
-    logging.info(f"Selecting top countries by capacity")
+    logging.info("Selecting top countries by capacity")
     try:
         # Group by the country column and sum the capacity_mw column
         top_countries = df.groupBy(country_column).agg(
