@@ -1,4 +1,3 @@
-# lib.py
 from pyspark.sql import SparkSession, DataFrame
 import pandas as pd
 from pyspark.sql.functions import col, sum as _sum, round

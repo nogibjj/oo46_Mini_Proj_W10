@@ -40,7 +40,5 @@ class PySparkTests(unittest.TestCase):
         self.assertListEqual(selected_columns, columns_to_select)
 
 
-# More test cases can be added here
-
 if __name__ == "__main__":
     unittest.main()
